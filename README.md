@@ -1,8 +1,8 @@
 # Musang Lovers
+![mosang lovers](https://user-images.githubusercontent.com/113785858/204123506-7262d279-920a-4d27-b695-16de2fd333d4.png)
 
-![WhatsApp Image 2022-11-10 at 9 53 36 PM](https://user-images.githubusercontent.com/113785858/201125012-2843e3f1-5226-44a0-a6ac-9efb17a38af0.jpeg)
-![WhatsApp Image 2022-11-10 at 9 53 35 PM (1)](https://user-images.githubusercontent.com/113785858/201125057-2cf0029c-ad5a-4f96-92d7-cd94c68122a9.jpeg)
-![WhatsApp Image 2022-11-10 at 9 53 35 PM](https://user-images.githubusercontent.com/113785858/201125068-0bf86e30-48c8-47b1-ba15-549405d3734f.jpeg)
+
+https://play.google.com/store/apps/details?id=com.jazzdev.sugarglidercare
 
 ## Getting Started
 
