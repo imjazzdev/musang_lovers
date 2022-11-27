@@ -2,7 +2,7 @@
 ![mosang lovers](https://user-images.githubusercontent.com/113785858/204123506-7262d279-920a-4d27-b695-16de2fd333d4.png)
 
 
-### You can find in playstore (https://play.google.com/store/apps/details?id=com.jazzdev.sugarglidercare)
+### You can find in playstore (https://play.google.com/store/apps/details?id=com.jazzdev.musanglovers)
 
 ## Getting Started
 
